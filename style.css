@@ -1,0 +1,19 @@
+/*defolt css */
+h1{
+    font-size: 40px;
+    font-family: 'Dela Gothic One', cursive;
+        color:blue;
+    }
+    .murge{
+        color: yellowgreen;
+    }
+    .half-width{
+        width: 30%;
+        float: left;
+        margin-left: 10%;
+        padding-left: 5%;
+    }
+    .half-width img{
+       width: 100%;
+       border-radius: 90px;
+    }
