@@ -1,8 +1,19 @@
 /*defolt css */
 h1{
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Dela Gothic One', cursive;
         color:blue;
+    }
+    h2{
+        color: rgb(15, 1, 1);
+        font-family: serif;
+    }
+    h3{
+        color: rgb(24, 23, 23);
+        font-family: cursive;
+    }
+    p{
+        font-family: Georgia, 'Times New Roman', Times, serif;
     }
     .murge{
         color: yellowgreen;
@@ -17,3 +28,33 @@ h1{
        width: 100%;
        border-radius: 90px;
     }
+    .banner{
+        height: 500px;
+        width: auto;
+        background-image: url("img/image_341570.jpg");
+        background-repeat: no-repeat;
+        background-position:left;
+    
+    }
+    section{
+        height: 500px;
+        padding-bottom: 10px;
+    }
+    .buttom{
+        height: 5px;
+        text-decoration: none;
+        background-color: rgb(228, 139, 57);
+        padding: 10px 20px;
+        border-radius: 7px;
+        color: rgb(3, 16, 22);
+        font-family: fantasy;
+        font-weight: 700;
+        text-align-last: center;
+    }
+    .dreem-area{
+        background-image: url("img/background.jpg");
+        background-repeat: no-repeat;
+        background-position:right;
+    }
+
+
